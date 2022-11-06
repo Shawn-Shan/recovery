@@ -46,7 +46,7 @@ This code takes awhile to run, mostly because ensemble attack with multiple mode
 
 ### Citation
 ```
-@inproceedings{shan2022poison,
+@inproceedings{shan2022post,
   title={Post-breach Recovery: Protection against White-box Adversarial Examples for Leaked DNN Models},
   author={Shan, Shawn and Ding, Wenxin and Wenger, Emily and Zheng, Haitao and Zhao, Ben Y},
   journal={Proc. of CCS},
